@@ -17,7 +17,7 @@ st.markdown(
   **Mohamed Gamal**  
   **Ahmed Badawy**  
   **Hazem Hashem**  
-  **Mohamed Abd Elrheem**  
+  **Ahmed Abd Elrheem**  
   **Mohamed Abd Elrazek**  
   **Amir Salem**"""
 )
