@@ -13,7 +13,7 @@ st.set_page_config(page_title="Group 01 Assignment", layout="wide")
 st.markdown(
     """### Prepared by –
   **Group-01 - Assignment - HSE Dashboard**  
-  **Dina Mohamed**
+  **Dina Mohamed** 
   **Samar Zaiton**  
   **Mohamed Gamal**  
   **Ahmed Badawy**  
