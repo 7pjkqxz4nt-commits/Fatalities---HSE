@@ -14,7 +14,6 @@ st.markdown(
     """### Prepared by –
   **Group-01 - Assignment - HSE Dashboard**  
   **Dina Mohamed**
-  
   **Samar Zaiton**  
   **Mohamed Gamal**  
   **Ahmed Badawy**  
